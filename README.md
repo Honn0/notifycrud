@@ -1,6 +1,6 @@
 # Notifycrud
 
-Crudzin para atender uma demanda da equipe de sustentacao bigdata. 
+CRUD para atender uma demanda da equipe de sustentacao bigdata. 
 
 # Caso: 
 Temos um relay de email cadastrado em uma tabela de base Oracle, essa tabela e responsavel por manter o controle de disparo 
