@@ -6,7 +6,7 @@ CRUD para atender uma demanda da equipe de sustentacao bigdata.
 Temos um relay de email cadastrado em uma tabela de base Oracle, essa tabela e responsavel por manter o controle de disparo 
 de notificações quando objetos sofrem atualizacoes. 
 
-Para evitar o insert manual e acesso indevido as bases de dados. Criamos um CRUD para realizar o cadastro de usuarios. 
+Para evitar o insert manual e acesso indevido as bases de dados. Subimos a interface default do Django para realizar as alteracoes. 
 
 ![image](https://user-images.githubusercontent.com/16235811/181764626-38873912-356a-4f9d-9ec4-db6eca20b26e.png)
 
